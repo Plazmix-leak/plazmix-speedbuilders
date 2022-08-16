@@ -1,0 +1,10 @@
+name: PlazmixSpeedBuilders
+main: net.plazmix.speedbuilders.PlazmixSpeedBuildersPlugin
+version: ${project.version}
+description: ${project.description}
+website: ${project.url}
+
+author: ItzStonlex
+
+depend:
+  - PlazmixAPI
